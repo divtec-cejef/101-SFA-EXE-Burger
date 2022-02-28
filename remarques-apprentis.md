@@ -20,7 +20,7 @@
 ```html
     <img src="img/fifty-burgers.png" alt="Logo Fifty Burgers"/>
 ```` 
-- Ajout d'un id pour revenir en haut de la page : `<body id="top">`
+- Ajout d'un id, acnre, pour revenir en haut de la page : `<body id="top">`
 - Ajouter texte alternatif présentant le contenu de l'image.
 - Toujours terminer son code avec une ligne vide
 - Attention aux lignes vides inutiles.
