@@ -26,9 +26,10 @@
 - Attention aux lignes vides inutiles.
 - Placer un ancre, un id, sur le body
   `<body id="haut">`
-- lien vers id : `<a href="#top">`
+- lien vers id permettant de revenir en haut de page : `<a href="#top">`
 - nom des classes en minuscules
 - Créer plusieurs paragraphes, voir document Word
+- C'est une liste et pas un menu de navigation. Il faut supprimer la balise `<nav>`.
 - Ajouter les éléments importants, en gras dans le Word `<strong>`
 - Utiliser `<div>` à la place du `<p>`
 - Pas de `<br>` !!! On utilise les `<br>` uniquement dans les blocs de textes.
