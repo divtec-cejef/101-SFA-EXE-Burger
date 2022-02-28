@@ -34,6 +34,12 @@
 - Utiliser `<div>` à la place du `<p>`
 - Pas de `<br>` !!! On utilise les `<br>` uniquement dans les blocs de textes.
 # CSS
+Il manque la règle générale facilitant le calcul de la largeur des éléments HTML.
+``` css
+* {
+    box-sizing: border-box;
+}
+```
 - Manque déclaration des groupes avec bloc de commentaires
 - Marge intérieure : `padding`
 - Marge extérieure : `margin`
