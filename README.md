@@ -1,8 +1,7 @@
 # Exercice Fifty Burgers
 
-**Exemple de solution :** http://kode.ch/fifty-burgers/
-
-**Code de la solution :** https://github.com/divtec-cejef/101-SFA-EXE-Burger/tree/solution
+  * **Exemple de solution :** http://kode.ch/fifty-burgers/
+  * **Code de la solution :** https://github.com/divtec-cejef/101-SFA-EXE-Burger/tree/solution
 
 ## Objectif
 Votre objectif est de créer le site **Fifty Burgers** 
