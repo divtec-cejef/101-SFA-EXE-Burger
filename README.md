@@ -2,6 +2,8 @@
 
   * **Exemple de solution :** http://kode.ch/fifty-burgers/
   * **Code de la solution :** https://github.com/divtec-cejef/101-SFA-EXE-Burger/tree/solution
+  * **Remaques faites aux apprentis :** https://github.com/divtec-cejef/101-SFA-EXE-Burger/blob/solution/remarques-apprentis.md
+
 
 ## Objectif
 Votre objectif est de créer le site **Fifty Burgers** 
