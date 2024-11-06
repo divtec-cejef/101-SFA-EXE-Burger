@@ -10,7 +10,7 @@
 }
 
 body {
-    font-family: Verdana, sans-serif;
+    font-family: Verdana, sans-serif; /* serif, cursive */
     font-weight: normal;
     font-size: 1.2rem;
     line-height: 1.4;
@@ -74,7 +74,9 @@ header img {
 main {
     padding: 20px;
     max-width: 600px;
-    margin: 0 auto;
+    /*margin-left: auto;
+    margin-right: auto;*/
+    margin: 0 auto; /* 0 haut & bas - auto gauche & droite */
 }
 
 
