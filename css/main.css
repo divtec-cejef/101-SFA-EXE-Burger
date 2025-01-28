@@ -80,8 +80,6 @@ main {
     margin: 0 auto; /* 0 haut & bas - auto gauche & droite */
 }
 
-
-
 main p.intro {
     font-size: 1.3rem;
     font-style: italic;
@@ -132,7 +130,4 @@ footer {
     border-top: 30px solid #E8A062;
     border-bottom: 30px solid #E8A062;
     border-radius: 30px;
-
-
-
 }
